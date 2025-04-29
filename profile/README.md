@@ -5,9 +5,16 @@ Welcome to the Wii U Smart Home Project! This project aims to make the Wii U int
 [Ristretto](https://github.com/wiiu-smarthome/Ristretto) is the [Aroma](https://aroma.foryour.cafe) plugin that enables network communication for IoT purposes to your console in Cafe OS.
 
 ## Home Hub Integrations
-- [homebridge-wiiu](https://github.com/wiiu-smarthome/homebridge-wiiu) is the [Homebridge](https://homebridge.io) plugin for connecting your Wii U with Apple HomeKit.
+- [Homebridge](https://homebridge.io) - [homebridge-wiiu](https://github.com/wiiu-smarthome/homebridge-wiiu)
 
-- [ha-wiiu](https://github.com/wiiu-smarthome/ha-wiiu) is the [Home Assistant](https://home-assistant.io) custom integration for integrating your Wii U into Home Assistant.
+- [Home Assistant](https://home-assistant.io) - [ha-wiiu](https://github.com/wiiu-smarthome/ha-wiiu)
 
 ## Other
 [python-wiiu-ristretto](https://github.com/wiiu-smarthome/python-wiiu-ristretto) is a Python library for interacting with Ristretto's API over the network.
+
+## Future Possible Subprojects
+- Binding for [openHAB](https://www.openhab.org)
+  
+- Implementing [Simple Service Discovery Protocol](https://en.wikipedia.org/wiki/Simple_Service_Discovery_Protocol) (SSDP)
+
+- [uPNP](https://en.wikipedia.org/wiki/Universal_Plug_and_Play) - likely overkill, but would be cool
