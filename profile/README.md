@@ -1,6 +1,8 @@
 # Wii U Smart Home Project
 Welcome to the Wii U Smart Home Project! This project aims to make the Wii U integrate with the Internet of Things (IoT) and other home automation tools as much as possible.
 
+You will need a [hacked console](https://wiiu.hacks.guide). Please note that this project is not affiliated with Nintendo in any way.
+
 ## Console Plugins
 [Ristretto](https://github.com/wiiu-smarthome/Ristretto) is the [Aroma](https://aroma.foryour.cafe) plugin that enables network communication for IoT purposes to your console in Cafe OS.
 
@@ -8,6 +10,8 @@ Welcome to the Wii U Smart Home Project! This project aims to make the Wii U int
 - [Homebridge](https://homebridge.io) - [homebridge-wiiu](https://github.com/wiiu-smarthome/homebridge-wiiu)
 
 - [Home Assistant](https://home-assistant.io) - [ha-wiiu](https://github.com/wiiu-smarthome/ha-wiiu)
+
+*If you have a SmartThings Hub or Hubitat Elevation, please let us know so we can make an integration!*
 
 ## Other
 [python-wiiu-ristretto](https://github.com/wiiu-smarthome/python-wiiu-ristretto) is a Python library for interacting with Ristretto's API over the network.
