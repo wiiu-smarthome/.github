@@ -3,8 +3,10 @@ Welcome to the Wii U Smart Home Project! This project aims to make the Wii U int
 
 You will need a [hacked console](https://wiiu.hacks.guide). Please note that this project is not affiliated with Nintendo in any way.
 
-## Console Plugins
+## Console Modules/Plugins
 [Ristretto](https://github.com/wiiu-smarthome/Ristretto) is the [Aroma](https://aroma.foryour.cafe) plugin that enables network communication for IoT purposes to your console in Cafe OS.
+
+[MQTTModule](https://github.com/wiiu-smarthome/MQTTModule) is a **work in progress** system module that runs a MQTT broker on the console. Soon, another plugin will be made that will actually provide the message topics.
 
 ## Home Hub Integrations
 - [Homebridge](https://homebridge.io) - [homebridge-wiiu](https://github.com/wiiu-smarthome/homebridge-wiiu)
